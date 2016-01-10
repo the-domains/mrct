@@ -1,0 +1,28 @@
+name: mrct
+favicon: null
+layout_spectrum: 0.462250595446676
+typography_spectrum: 0.8963540811091661
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0784598127938807
+  lightness: 0.6833622078411281
+  saturation: 0.8692794817034155
+  rhythmicContrast: 0.5065847795922309
+purpose: []
